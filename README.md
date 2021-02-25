@@ -16,3 +16,5 @@ https://marak.github.io/faker.js/index.html#toc7__anchor
 `/:namespace/:command/:count` 
 
 `faker.name.findName()` `http://localhost:8080/name/findName/1`
+
+A version is available on Heroku: https://polar-woodland-85279.herokuapp.com/company/companyName/2
