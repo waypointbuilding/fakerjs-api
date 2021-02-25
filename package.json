@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API server for faker.js",
   "author": "Cyril Fluck <github@fluck.fr>",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,5 +11,8 @@
   "dependencies": {
     "express": "^4.16.1",
     "faker": "5.4.0"  
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
