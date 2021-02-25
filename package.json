@@ -1,5 +1,5 @@
 {
-  "name": "faker_api",
+  "name": "fakerjs-api",
   "version": "1.0.0",
   "description": "API server for faker.js",
   "author": "Cyril Fluck <github@fluck.fr>",
